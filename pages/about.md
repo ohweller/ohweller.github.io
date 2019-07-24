@@ -5,7 +5,7 @@ title: About
 
 Hello! Welcome to our little corner of the Internet! We are the Weller Family.
 
-![alt text](/assets/img/IMG_5918.jpg "title")
+![Orion and I at Mesa Verde](/assets/img/IMG_5918.jpg "Mesa Verde National Park")
 
 Orion and I are both currently students at BYU. He studies computer science and statistics while I study family life. We both do research in our respective fields and dinner topics usually revolve around our studies.
 
