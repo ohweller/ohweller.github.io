@@ -8,7 +8,7 @@
 @media (max-width: $container-width) {
   .site-header {
       min-height: 56px;
-      width: 110vw;
+      width: 95vw;
       position: fixed;
       background-color: #ffffff;
       box-shadow: 0 5px 6px -6px #bbb;
@@ -35,7 +35,65 @@
 .menu-link {
   padding: 5px 10px;
 }
+.mainmenu a {
 
+color: #ffffff;
+border: 0px solid;
+background-color: #302E2E;
+padding-left: 4px;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-right: 4px;
+font: 12px Arial;
+font-weight: normal;
+text-decoration: none;
+border-color: #000000;
+display: block;
+margin: 0px;
+width: 100px;
+text-align: left;
+z-index:2;
+top: 50px;
+}
+.mainmenu {
+margin-top: 200px;
+}
+
+
+.mainmenu a:visited { color: #ffffff; }
+
+.mainmenu a:hover {
+border: 0px solid;
+padding-left: 4px;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-right: 4px;
+background-color: #333030;
+border-color: #000000;
+color: #000000;
+font: 12px Arial;
+font-weight: normal;
+text-decoration: none;
+text-align: left;
+display: block;
+width: 100px;
+
+ }
+
+
+ .mainmenu ul {
+list-style:none;
+margin: 0;
+padding: 0;
+
+ }
+
+.mainmenu li {
+
+margin: 0;
+    padding-top: 1px;
+padding-bottom: 1px;
+}
 /*
   Responsiveness with a dropdown menu
 */
